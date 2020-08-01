@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eduardosantoshf.eduardosantoshf)
+-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardosantoshf&show_icons=true&hide_border=true)
