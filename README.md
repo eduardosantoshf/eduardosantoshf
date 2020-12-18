@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eduardosantoshf.eduardosantoshf)
--->
+
 <!--
 ![Views](https://views.whatilearened.today/views/github/eduardosantoshf/views.svg)
 -->
