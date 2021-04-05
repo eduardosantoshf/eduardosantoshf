@@ -4,7 +4,6 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=eduardosantoshf&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 -->
----
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardosantoshf&count_private=true&include_all_commits=true&theme=dracula&show_icons=true" />
