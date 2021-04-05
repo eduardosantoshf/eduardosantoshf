@@ -6,7 +6,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eduardosantoshf.eduardosantoshf)
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardosantoshf&theme=dracula&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardosantoshf&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
