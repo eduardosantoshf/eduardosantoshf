@@ -18,3 +18,5 @@
   <img height="189" style="margin-left:5px;" src="https://github-profile-trophy.vercel.app/?username=eduardosantoshf&theme=dracula&margin-w=5&margin-h=5&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" />
 </div>
 -->
+
+![Metrics](/github-metrics.svg)
