@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner, collaborator
           repositories_forks: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
