@@ -24,3 +24,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, php, roff, xslt
+          plugin_languages_details: bytes-size, percentage, lines
