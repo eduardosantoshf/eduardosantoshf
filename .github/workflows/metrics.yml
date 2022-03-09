@@ -27,5 +27,5 @@ jobs:
           plugin_languages_details: percentage
           plugin_habits: yes
           plugin_achievements: yes
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
           plugin_achievements_display: compact
