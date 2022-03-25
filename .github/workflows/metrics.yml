@@ -25,7 +25,6 @@ jobs:
           plugin_languages_ignored: >-
             html, css, php, roff, xslt
           plugin_languages_details: percentage
-          plugin_habits: yes
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
