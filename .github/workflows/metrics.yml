@@ -19,6 +19,7 @@ jobs:
           # Options
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
+          plugin_traffic: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
