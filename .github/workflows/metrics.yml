@@ -15,11 +15,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, metadata
 
           # Options
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_traffic: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
