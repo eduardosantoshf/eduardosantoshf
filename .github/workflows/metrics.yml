@@ -1,3 +1,7 @@
+# @Author: Eduardo Santos
+# @Date:   2022-12-23 19:00:25
+# @Last Modified by:   Eduardo Santos
+# @Last Modified time: 2023-03-24 22:21:26
 name: Metrics
 on:
   # Schedule daily updates
@@ -28,6 +32,6 @@ jobs:
           plugin_languages_ignored: >-
             html, css, php, roff, xslt
           plugin_languages_details: percentage
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
