@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -154,14 +154,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.22672040056176" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="381.22672040056176" y="0" width="31.99242840569091" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="413.2191488062527" y="0" width="15.827685168223727" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="429.04683397447644" y="0" width="15.570210254218313" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="444.61704422869474" y="0" width="7.480816592375486" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="452.09786082107024" y="0" width="3.3705806924345114" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.46844151350473" y="0" width="2.8649935885693347" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.333435102074" y="0" width="1.666564897925953" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.4289429627368" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="394.4289429627368" y="0" width="33.10035483769071" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="427.52929780042746" y="0" width="16.375812072904928" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="443.9051098733324" y="0" width="7.739883967022206" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="451.6449938403546" y="0" width="3.4873069188085033" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.1323007591631" y="0" width="2.964210880987228" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.0965116401503" y="0" width="1.724279532077538" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.8207911722278" y="0" width="0.17920882777210365" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -173,7 +173,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>82.88%</div>
+                                <div>85.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -184,7 +184,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>3.44%</div>
+                                <div>3.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -192,10 +192,10 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                RobotFramework
+                                Batchfile
                             </div>
                             <small>
-                                <div>1.63%</div>
+                                <div>0.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -203,10 +203,10 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Makefile
+                                Dockerfile
                             </div>
                             <small>
-                                <div>0.62%</div>
+                                <div>0.37%</div>
                             </small>
                         </div>
                     </section>
@@ -219,7 +219,7 @@
                                 Smarty
                             </div>
                             <small>
-                                <div>6.95%</div>
+                                <div>7.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -227,10 +227,10 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Mustache
+                                RobotFramework
                             </div>
                             <small>
-                                <div>3.38%</div>
+                                <div>1.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -238,21 +238,21 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Batchfile
+                                Makefile
                             </div>
                             <small>
-                                <div>0.73%</div>
+                                <div>0.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Ruby
                             </div>
                             <small>
-                                <div>0.36%</div>
+                                <div>0.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1312,7 +1312,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2024, 20:18:47  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 23:15:37  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
