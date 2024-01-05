@@ -37,6 +37,6 @@ jobs:
           plugin_languages_recent_days: 30
           plugin_languages_categories: programming
           plugin_languages_details: percentage
-          plugin_achievements: no
+          plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
