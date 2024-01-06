@@ -46,3 +46,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
+
+          # GitHub sponsorships plugin
+          plugin_sponsorships: yes
