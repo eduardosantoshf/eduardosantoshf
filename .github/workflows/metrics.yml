@@ -49,3 +49,4 @@ jobs:
 
           # GitHub sponsorships plugin
           plugin_sponsorships: yes
+          plugin_sponsorships_sections: amount
