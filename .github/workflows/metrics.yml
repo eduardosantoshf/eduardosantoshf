@@ -7,7 +7,7 @@ on:
   # Schedule daily updates
   #schedule: [{cron: "0 0 * * *"}]
   # Schedule daily updates - every day at 6 AM UTC
-  schedule: [{cron: "0 5,11 * * *"}]
+  schedule: [{cron: "0 5,16 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
