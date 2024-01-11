@@ -43,9 +43,9 @@ jobs:
           plugin_languages_details: percentage
 
           # achievements plugin
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
+          #plugin_achievements: yes
+          #plugin_achievements_threshold: C
+          #plugin_achievements_display: compact
 
           # GitHub sponsorships plugin
           plugin_sponsorships: yes
