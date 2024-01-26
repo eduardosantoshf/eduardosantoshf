@@ -48,5 +48,5 @@ jobs:
           #plugin_achievements_display: compact
 
           # GitHub sponsorships plugin
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount
+          #plugin_sponsorships: yes
+          #plugin_sponsorships_sections: amount
