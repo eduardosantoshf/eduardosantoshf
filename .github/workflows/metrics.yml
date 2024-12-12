@@ -32,7 +32,8 @@ jobs:
           plugin_isocalendar_duration: half-year
 
           # languages activity plugin
-          plugin_languages: yes
+          # (disabled until it is fixed and it correctly displays the most used languages and their usage %)
+          plugin_languages: no 
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
