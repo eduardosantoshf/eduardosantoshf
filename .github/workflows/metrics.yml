@@ -28,8 +28,8 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
 
           # isometric commit calendar plugin
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          #plugin_isocalendar: yes
+          #plugin_isocalendar_duration: half-year
 
           # languages activity plugin
           # (disabled until it is fixed and it correctly displays the most used languages and their usage %)
