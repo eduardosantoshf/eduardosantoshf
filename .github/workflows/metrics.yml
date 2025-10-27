@@ -20,10 +20,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repository, activity, community, metadata
+          base: header, repositories, activity, community, metadata
           base_indepth: yes
 
-          # Plugins
+          # Plugins          
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
 
@@ -44,9 +44,9 @@ jobs:
           plugin_languages_details: percentage
 
           # achievements plugin
-          #plugin_achievements: yes
-          #plugin_achievements_threshold: C
-          #plugin_achievements_display: compact
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
 
           # GitHub sponsorships plugin
           #plugin_sponsorships: yes
