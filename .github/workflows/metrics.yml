@@ -20,7 +20,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, metadata #, repositories
+          base: header, activity, community, metadata, repositories
           base_indepth: yes
 
           # Plugins          
