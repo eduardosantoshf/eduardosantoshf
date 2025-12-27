@@ -33,7 +33,7 @@ jobs:
 
           # languages activity plugin
           # (disabled until it is fixed and it correctly displays the most used languages and their usage %)
-          plugin_languages: no 
+          plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
@@ -44,7 +44,7 @@ jobs:
           plugin_languages_details: percentage
 
           # achievements plugin
-          plugin_achievements: no
+          plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
 
